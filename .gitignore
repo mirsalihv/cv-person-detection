@@ -1,0 +1,19 @@
+# ===== IGNORE ENV =====
+.venv/
+
+# ===== IGNORE DATASET =====
+data/
+
+# ===== IGNORE MODEL WEIGHTS =====
+models/*.pth
+
+# ===== PYTHON CACHE =====
+__pycache__/
+*.pyc
+
+# ===== IDE =====
+.idea/
+.vscode/
+
+# ===== SYSTEM =====
+.DS_Store
